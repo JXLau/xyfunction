@@ -8,6 +8,9 @@
             "email": "liuzhixing@applepi.cn"
         }
     ],
+    "autoload": {
+        "files": ["src/functions.php"]
+    },
     "require": {
         "php": ">=5.6.0"
     }
