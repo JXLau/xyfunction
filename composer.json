@@ -1,0 +1,14 @@
+{
+    "name": "xy/xyutil",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Jason lau",
+            "email": "liuzhixing@applepi.cn"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    }
+}
